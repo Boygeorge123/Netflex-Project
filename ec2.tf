@@ -2,3 +2,4 @@
 # type is t2.xlarge
 # os----> windows
 # add ebs vol ---> 100gb
+#now now so
